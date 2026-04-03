@@ -276,7 +276,7 @@ make_bands_plot <- function(scens, show_note = TRUE) {
     labs(
       x       = "Brent crude oil price ($/barrel)",
       y       = "Fuel cost (\u00a2/kWh)",
-      caption = caption_txt
+      caption = if (show_note) caption_txt else NULL
     ) +
     brief_theme +
     guides(fill = guide_legend(
