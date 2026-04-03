@@ -1,0 +1,5 @@
+plan,requested_start_year,requested_end_year,available_start_year,available_end_year,n_years_used,avg_oil_plus_lng_mw
+igp_pref,1931,2044,2022,2044,23,207.521428113617
+igp_lc,1931,2044,2022,2044,23,308.426023674804
+hseo_lng,1931,2044,2022,2044,23,329.040053603335
+hseo_oil,1931,2044,2022,2044,23,306.945602541195

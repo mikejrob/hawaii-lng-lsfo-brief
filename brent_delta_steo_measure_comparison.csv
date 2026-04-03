@@ -1,0 +1,4 @@
+"measure","label","n_horizons_fit","avg_r_squared","avg_abs_pred_delta"
+"delta_steo_ave","average(curr,next)",25,0.0907013143107782,2.99387923987159
+"delta_steo_curr","current-year",25,0.0780935532267561,3.08332450125173
+"delta_steo_next","next-year",25,0.0978244378408462,2.46595486303268

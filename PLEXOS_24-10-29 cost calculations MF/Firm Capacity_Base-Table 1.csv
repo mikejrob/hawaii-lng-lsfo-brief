@@ -1,0 +1,43 @@
+Name,Year,Month,Day,Period,VALUE,,,OIL,1465.4,1315.4024
+Kahe 1,2019,1,1,1,71.862,,OIL,GAS_CCGT,0,0
+Kahe 2,2019,1,1,1,71.688,,OIL,GAS_OCGT,0,0
+Kahe 3,2019,1,1,1,74.907,,OIL,HYDROGEN,0,0
+Kahe 4,2019,1,1,1,74.298,,OIL,SOLAR,213,0
+Kahe 5,2019,1,1,1,121.41,,OIL,Rooftop solar,0,0
+Kahe 6,2019,1,1,1,121.23,,OIL,GEOTHERMAL,0,0
+Waiau 3,2019,1,1,1,35.325,,OIL,WIND,123,0
+Waiau 4,2019,1,1,1,34.875,,OIL,OFFSHORE_WIND,0,0
+Waiau 5,2019,1,1,1,46.24,,OIL,HYDRO,0,0
+Waiau 6,2019,1,1,1,45.645,,OIL,BATTERY,0,0
+Waiau 7,2019,1,1,1,72.123,,OIL,80NAPTHTHA 20BIODIESEL,0,0
+Waiau 8,2019,1,1,1,75.081,,OIL,BIOMASS,0,0
+Waiau 9,2019,1,1,1,48.5622,,OIL,BIODIESEL,8,7.6
+Waiau 10,2019,1,1,1,45.8082,,OIL,BIOGAS,0,0
+Campbell Industrial Park,2019,1,1,1,123.84,,OIL,REFUSE,68.5,66.445
+H-Power,2019,1,1,1,66.445,,REFUSE,,,
+Kalaeloa Energy Partners,2019,1,1,1,204.88,,OIL,,,
+Airport DSG,2019,1,1,1,7.6,,BIODIESEL,,,
+Schofield 1,2019,1,1,1,7.938,,OIL,,,
+Schofield 2,2019,1,1,1,7.938,,OIL,,,
+Schofield 3,2019,1,1,1,7.938,,OIL,,,
+Schofield 4,2019,1,1,1,7.938,,OIL,,,
+Schofield 5,2019,1,1,1,7.938,,OIL,,,
+Schofield 6,2019,1,1,1,7.938,,OIL,,,
+300MW CT - RFP3 Firm 1,2019,1,1,1,300,<- not included,,,,
+300MW CT - RFP3 Firm 2,2019,1,1,1,0,<- not included,,,,
+300MW CT - RFP3 Firm 3,2019,1,1,1,0,<- not included,,,,
+300MW CT - RFP3 Firm 4,2019,1,1,1,0,<- not included,,,,
+300MW CT - RFP3 Firm 5,2019,1,1,1,0,<- not included,,,,
+300MW CT - RFP3 Firm 6,2019,1,1,1,0,<- not included,,,,
+208 MW CC - RFP 3 Firm,2019,1,1,1,208,<- not included,,,,
+Stage 2: Kapolei Energy Storage,2019,1,1,1,0,,,,,
+Demand Response: Fast Demand Response (FDR),2019,1,1,1,5.5,,,,,
+Demand Response: Residential Direct Load Control,2019,1,1,1,13.2,,,,,
+Demand Response: Commercial Direct Load Control,2019,1,1,1,7.8,,,,,
+Demand Response: Small Business Direct Load Control,2019,1,1,1,1.6,,,,,
+2029 Standalone BESS,2019,1,1,1,82,,,,,
+2030 Standalone BESS,2019,1,1,1,85,,,,,
+2035 Group 2 Hybrid Solar 15% Slope BESS,2019,1,1,1,0,,,,,
+2035 Group 3 Hybrid Solar 15% Slope BESS,2019,1,1,1,0,,,,,
+2050 Biomass,2019,1,1,1,80,,,,,
+2050 Group 2 Hybrid Solar 15% Slope BESS,2019,1,1,1,0,,,,,

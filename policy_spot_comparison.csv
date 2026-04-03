@@ -1,0 +1,7 @@
+scenario,brent_bbl,price_mmbtu
+LSFO – current contract (R3),103.79,20.7920201137981
+LSFO – old contract (R1 counterfactual),103.79,28.4723428007434
+LNG – HSEO/FGE all-in 0.4 mtpa,103.79,16.77722
+LNG – HSEO/FGE all-in 1.0 mtpa,103.79,14.52722
+LNG – FRED MA all-in 0.4 mtpa (ex. 2022 spike),103.79,18.6512230275018
+LNG – FRED MA all-in 1.0 mtpa (ex. 2022 spike),103.79,16.4012230275018

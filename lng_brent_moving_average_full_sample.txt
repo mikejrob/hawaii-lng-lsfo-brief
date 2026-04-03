@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = lng_real_2024_mmbtu ~ brent_ma, data = model_dt)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-8.691 -3.472 -1.182  1.469 41.568 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.91600    1.16746   1.641    0.102    
+brent_ma     0.13563    0.01147  11.823   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 6.396 on 268 degrees of freedom
+Multiple R-squared:  0.3428,	Adjusted R-squared:  0.3404 
+F-statistic: 139.8 on 1 and 268 DF,  p-value: < 2.2e-16
+
