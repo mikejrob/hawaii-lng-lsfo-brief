@@ -68,7 +68,7 @@ Run scripts in the order listed. Each script's key outputs become inputs for lat
 | 8 | `oil_lng.R` | Generation mix plots for HSEO/IGP scenarios | `oahu_generation_mix_*.png` |
 | 9 | `generate_brief_figures.R` | Generates Figures 1–6 for the brief | `brief_figures/fig1_*` … `fig6_*` (.png + .pdf) |
 | 10 | `fig_fuel_cost_comparison.R` | Mixed-efficiency fuel cost comparison figure | `brief_figures/fig_fuel_cost_comparison.*` |
-| 11 | `fig_fuel_cost_bands.R` | CT-to-CCGT band comparison — **Figure 7** in brief | `brief_figures/fig_fuel_cost_opt2_doc.pdf` |
+| 11 | `fig_fuel_cost_bands.R` | Two-panel fuel cost comparison — **Figure 7** in brief. Left panel: CCGT efficiency; right panel: CT efficiency. Each panel shows LSFO at steam and matched heat rates alongside LNG scenarios. Also generates single-panel band variants (opt1, opt2). | `brief_figures/fig_fuel_cost_twopanel_doc.pdf` |
 
 `plot_vlsfo_prices.R` and `lng_brent_fred_regression_test.R` are exploratory scripts and do not need to be run to reproduce the brief's main results.
 
