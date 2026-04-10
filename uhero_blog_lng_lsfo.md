@@ -4,11 +4,11 @@ output:
     latex_engine: xelatex
 mainfont: "Arial"
 ---
- Hawaii's Fuel Bill: What the Numbers Really Show
+From Oil to LNG: Would It Really Lower Hawaii's Electricity Rates?
 
 **Michael J. Roberts | UHERO | April 2026**
 
-Hawaiʻi's electricity rates are the highest in the nation — roughly three times the U.S. average. The main reason is simple: the islands burn imported oil, and shipping petroleum to the middle of the Pacific is expensive. Two developments deserve close attention from anyone trying to understand where rates are headed.
+Hawaiʻi's electricity rates are the highest in the nation — roughly three times the U.S. average. The main reason is that the islands burn imported oil refined locally into a specialized low-sulfur fuel, and a single small refinery serving a captive market is about as expensive a supply chain as you can have. Two developments deserve close attention: recent changes to the fuel supply contract, and a proposal to replace oil-fired generation with LNG.
 
 ---
 
