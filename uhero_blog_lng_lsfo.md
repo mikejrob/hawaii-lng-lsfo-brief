@@ -1,4 +1,10 @@
-# Hawaii's Fuel Bill: What the Numbers Really Show
+---
+output:
+  pdf_document: 
+    latex_engine: xelatex
+mainfont: "Arial"
+---
+ Hawaii's Fuel Bill: What the Numbers Really Show
 
 **Michael J. Roberts | UHERO | April 2026**
 
@@ -8,11 +14,11 @@ Hawaiʻi's electricity rates are the highest in the nation — roughly three tim
 
 ## A quiet win hiding in plain sight
 
-In 2024, Hawaiian Electric renegotiated its fuel supply contract with Par Pacific, the Kapolei refinery that provides most of Oʻahu's power plant fuel. The change is structural, not cosmetic. The old contract was extraordinarily steep: every $1 rise in global oil prices translated into roughly $1.90 in higher fuel costs for customers. The new contract is far flatter — about $0.74 for each dollar increase in oil. It also gives Par Pacific a better floor when prices are low, making it a more balanced arrangement for both parties.
+In 2024, Hawaiian Electric renegotiated its fuel supply contract with Par Pacific, the Kapolei refinery that provides most of Oʻahu's power plant fuel. The change was significant. The old contract, signed during an inflation spike and Russia's invasion of Ukraine, was extraordinarily steep: every $1 rise in global oil prices translated into roughly $1.90 in higher fuel costs for customers. The poor terms reflected real stress on Par Pacific at the time: the refinery was still recovering from COVID-era revenue losses, and a prolonged global spike in low-sulfur fuel oil prices — set off by the shipping industry's 2020 agreement to cut sulfur emissions by roughly 70% — had pushed its margins to the limit. The new contract is far flatter — about $0.74 for each dollar increase in oil. It also gives Par Pacific a better floor when prices are low, making it a more balanced arrangement for both parties.
 
 ![](brief_figures/blog_fig1_contract.png)
 
-*How much the pricing formula matters becomes clear at current oil prices. With global marine fuel near $145 per barrel, the new contract is saving Hawaiian Electric customers roughly $70–75 per barrel — or about $45–55 million every month — compared to what the old contract would have cost. Bills are still rising as the company's fuel storage tanks refill with more expensive oil; but under the old contract, the increase would have been roughly twice as large.*
+*How much the pricing formula matters becomes clear at current oil prices. If global marine fuel prices, currently near $145 per barrel, remain elevated, the new contract will save Hawaiian Electric customers roughly $70–75 per barrel — or about $45–55 million every month — compared to what the old contract would have cost. Bills are still rising as fuel storage tanks replenish with higher-priced oil; but under the old contract, the increase would have been roughly twice as large.*
 
 ---
 
@@ -26,7 +32,7 @@ More importantly, the Pacific LNG market is volatile in ways that Henry Hub is n
 
 ![](brief_figures/fig6_jkm_vs_hh.png)
 
-*The blue line — Pacific LNG import prices — has repeatedly spiked far above Henry Hub (orange). Long-term contracts tied to Henry Hub provide some insulation, but when global supply is tight, sellers have both the incentive and the contractual tools (force majeure, price review clauses) to renegotiate. As a small buyer representing a fraction of a percent of global LNG trade, Hawaiʻi would have little leverage in any such negotiation.*
+*The green line — Pacific LNG import prices — has repeatedly spiked far above Brent crude oil (blue). Long-term contracts tied to Henry Hub provide some insulation, but when global supply is tight, sellers have both the incentive and the contractual tools (force majeure, price review clauses) to renegotiate. As a small buyer representing a fraction of a percent of global LNG trade, Hawaiʻi would have little leverage in any such renegotiation.*
 
 ---
 
@@ -46,7 +52,7 @@ The figure below separates these effects. Each panel fixes the generator technol
 
 The 2024 contract renegotiation was a genuine, significant win for Hawaiian Electric customers. The savings are real and growing as oil prices rise. Any LNG investment deserves the same level of scrutiny applied to that renegotiation: the pricing structure matters at least as much as the headline number.
 
-The investment case for LNG is positive in the scenarios where renewable energy grows slowly — but those are precisely the scenarios that conflict with Hawaiʻi's own energy policy goals. In the scenarios where policy succeeds, the LNG terminal sits largely idle while ratepayers still pay for it. The upside is bounded and front-loaded; the downside arrives when things go wrong.
+The investment case for LNG is positive in the scenarios where cheaper and less volatile renewable energy grows slowly — but those are precisely the scenarios that conflict with Hawaiʻi's own energy policy goals. In the scenarios where policy succeeds, the LNG terminal sits largely idle while ratepayers still pay for it. The upside is modest and front-loaded; the downside arrives when things go wrong — and in energy markets, they eventually do.
 
 ---
 
